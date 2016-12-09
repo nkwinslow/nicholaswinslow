@@ -2,58 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="193be936-95e9-4501-aca4-1d38362e51a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/01@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/02@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/03@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/04@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/05@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/06@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brands-img/bg@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/feedback-img/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/feedback-img/bg@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/feedback-img/client-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/feedback-img/client-01@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/feedback-img/client-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/feedback-img/client-02@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/feedback-img/client-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/feedback-img/client-03@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/feedback-img/client-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/feedback-img/client-04@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-3@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-4@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-5@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-6@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-7@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/gallery-photo-8@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/project-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gallery-img/project-01@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/services-img/bg.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/banner-img/saltflats.jpg" afterPath="$PROJECT_DIR$/img/banner-img/saltflats.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile-picture.JPG" afterPath="$PROJECT_DIR$/img/profile-picture.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="nicholaswinlsow.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="462" column="57" selection-start-line="462" selection-start-column="57" selection-end-line="462" selection-end-column="57" />
+              <caret line="462" column="69" selection-start-line="462" selection-start-column="69" selection-end-line="462" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -341,16 +290,16 @@
       <workItem from="1480740735732" duration="2000" />
       <workItem from="1480740814665" duration="7837000" />
       <workItem from="1481067532169" duration="8568000" />
-      <workItem from="1481239424174" duration="5944000" />
+      <workItem from="1481239424174" duration="6475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26509000" />
+    <option name="totallyTimeSpent" value="27040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15450644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -360,7 +309,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18433735" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18433735" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -690,7 +639,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="462" column="57" selection-start-line="462" selection-start-column="57" selection-end-line="462" selection-end-column="57" />
+          <caret line="462" column="69" selection-start-line="462" selection-start-column="69" selection-end-line="462" selection-end-column="69" />
           <folding />
         </state>
       </provider>
