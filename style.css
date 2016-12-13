@@ -1851,6 +1851,8 @@ body.scrolled #backToTop {
     /* BANNER */
     #banner {
         height: auto;
+        width: auto;
+        background-size:contain;
     }
     
     #banner .banner--content {
