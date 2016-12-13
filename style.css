@@ -364,7 +364,7 @@ p:last-child {
 
 /* 1.8. MODAL */
 .modal {
-    padding-top: 50px;
+    padding-top: 10px;
 }
 
 .modal label {
