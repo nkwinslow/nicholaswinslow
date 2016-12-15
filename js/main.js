@@ -426,6 +426,13 @@ WE MAY RELEASE FUTURE UPDATES SO IT WILL OVERWRITE THIS FILE. IT'S BETTER AND SA
     var hidePreloader = function () {
         $('#preloader').fadeOut('slow');
     };
+
+    /* -------------------------------------------
+        MAKE AN IMAGE BIGGER
+     ------------------------------------------- */
+    $('#imgtab').on('click', function(e) {
+        $(this).toggleClass('fullSize');
+    });
     
     /* -------------------------------------------
         Function Calls

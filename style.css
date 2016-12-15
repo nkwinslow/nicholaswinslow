@@ -1994,3 +1994,9 @@ body.scrolled #backToTop {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
 }
+
+.fullSize {
+    height: 450px;
+    width: 650px;
+    -webkit-transition: all .4s ease-in;
+}
