@@ -3,6 +3,8 @@
     $site_owners_email = 'nicholaskwinslow@gmail.com';
     $site_owners_name = 'Nicholas Winslow';
 
+    require('phpmailer/PHPMailerAutoload.php');
+
     $name = filter_var($_POST['contactName'], FILTER_SANITIZE_STRING);
     $email = filter_var($_POST['contactEmail'], FILTER_SANITIZE_EMAIL);
     $subject = filter_var($_POST['contactSubject'], FILTER_SANITIZE_STRING);
