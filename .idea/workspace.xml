@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="193be936-95e9-4501-aca4-1d38362e51a8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/video:audio/Trickceratops_Logo_Reveal.mov" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/nicholaswinlsow.iml" afterPath="$PROJECT_DIR$/.idea/nicholaswinlsow.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-graphics.html" afterPath="$PROJECT_DIR$/portfolio-graphics.html" />
-    </list>
+    <list default="true" id="193be936-95e9-4501-aca4-1d38362e51a8" name="Default" comment="" />
     <ignored path="nicholaswinlsow.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -363,12 +357,12 @@
       <workItem from="1489265751399" duration="131000" />
       <workItem from="1489265900925" duration="1232000" />
       <workItem from="1489593264656" duration="74000" />
-      <workItem from="1512994647311" duration="174000" />
+      <workItem from="1512994647311" duration="251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73210000" />
+    <option name="totallyTimeSpent" value="73287000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
